@@ -1043,10 +1043,10 @@ footer > div:first-of-type{
     .nav-el:last-of-type{
         display: flex;
     }
-
+/* 
     .nav-el:hover{
         background: #FCF7FF;
-    }
+    } */
 
     .nav-bottom{
         padding: 0;
